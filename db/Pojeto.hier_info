@@ -1,0 +1,10 @@
+|Pojeto
+ender[0] => word[3].DATAIN
+ender[1] => word[2].DATAIN
+ender[2] => word[1].DATAIN
+word[3] <= ender[0].DB_MAX_OUTPUT_PORT_TYPE
+word[2] <= ender[1].DB_MAX_OUTPUT_PORT_TYPE
+word[1] <= ender[2].DB_MAX_OUTPUT_PORT_TYPE
+word[0] <= <GND>
+
+

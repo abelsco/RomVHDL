@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Abel Menezes/Google Drive/LOGICA RECONFIGURAVEL/CODIGOS/ROM/Waveform.vwf
+source_file = 1, C:/Users/Abel Menezes/Google Drive/LOGICA RECONFIGURAVEL/CODIGOS/ROM/pojeto.vhd
+source_file = 1, C:/Users/Abel Menezes/Google Drive/LOGICA RECONFIGURAVEL/CODIGOS/ROM/db/Pojeto.cbx.xml
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = Pojeto
+instance = comp, \word[3]~output , word[3]~output, Pojeto, 1
+instance = comp, \word[2]~output , word[2]~output, Pojeto, 1
+instance = comp, \word[1]~output , word[1]~output, Pojeto, 1
+instance = comp, \word[0]~output , word[0]~output, Pojeto, 1
+instance = comp, \ender[0]~input , ender[0]~input, Pojeto, 1
+instance = comp, \ender[1]~input , ender[1]~input, Pojeto, 1
+instance = comp, \ender[2]~input , ender[2]~input, Pojeto, 1
